@@ -2,7 +2,8 @@
 
 A personal project made to visualize the orbits of Near-Earth Objects (NEOs). Provides additional features such as risk assesment, close approaches, and orbit propagation.
 
-![Untitled](https://github.com/user-attachments/assets/5912cde5-a052-434a-a11a-5d1fe160c985)
+![image](https://github.com/user-attachments/assets/2fd79f5f-e4c0-465e-9559-db098e565237)
+
 
 <br>
 
@@ -41,9 +42,10 @@ AstroField is an interactive app that tracks near-Earth asteroids in real-time, 
 
 # Images
 Here is a collection of images that showcase the features above
-![image](https://github.com/user-attachments/assets/f01c43b9-e33a-47bf-aa09-1eee02bc77cc)
-![image](https://github.com/user-attachments/assets/c2818f80-e01e-4fd3-9c8b-e42c0eabe947)
-![image](https://github.com/user-attachments/assets/b67f86e2-8c4b-4406-8248-da868950472b)
+![Screenshot 2024-10-12 205628](https://github.com/user-attachments/assets/8068f8e9-c36f-4747-903c-2857561f0616)
+![Screenshot 2024-10-12 205745](https://github.com/user-attachments/assets/48ea2d7c-fc4f-48b7-b183-d1ac54f95a7a)
+![Screenshot 2024-10-12 205649](https://github.com/user-attachments/assets/e60be1b3-b9d8-42b5-b458-ff7257a33562)
+
 
 # Documentation
 Work in Progress
