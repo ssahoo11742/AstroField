@@ -2,7 +2,8 @@
 
 A personal project made to visualize the orbits of Near-Earth Objects (NEOs). Provides additional features such as risk assesment, close approaches, and orbit propagation.
 
-![image](https://github.com/user-attachments/assets/2fd79f5f-e4c0-465e-9559-db098e565237)
+![image](https://github.com/user-attachments/assets/6b511ff6-b953-45f3-b941-198402249e6e)
+
 
 
 <br>
